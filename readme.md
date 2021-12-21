@@ -1,3 +1,3 @@
 # Hello!
 
-Welcomw to the reprository.
+Welcome to the reprository.
